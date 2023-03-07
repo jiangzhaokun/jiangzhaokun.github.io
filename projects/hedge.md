@@ -8,7 +8,7 @@ published: true
 labels:
   - Translation Theory
   - Political Texts
-summary: "In this project I investigated how hedges are translated in C-E and E-C political documents, especially whether there is a diachronic change in the frequencies of translated hedging devices and what translation strategies are adopted."
+summary: "In this project I investigated how hedges are translated in C-E and E-C political documents, especially whether there is a diachronic change in the frequencies of translated hedging devices and what translation strategies are adopted. The project paper is yet to be submitted."
 ---
 
 lalala.
