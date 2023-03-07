@@ -6,7 +6,7 @@
     "email": "zhaokun_jiang@sjtu.edu.cn",
     "phone": "",
     "website": "https://jiangzhaokun.github.io",
-    "summary": "I'm currently a graduate student in ranslation and Interpreting (MTI). Besides that, I used to work in the financial sections and human resources departments of major corporations. But I am also passionate about machine learning, linear algebra, and loves workout in my spare time.",
+    "summary": "I'm currently a graduate student in translation and Interpreting (MTI). Besides that, I used to work in the financial sections and human resources departments of major corporations. But I am also passionate about machine learning and linear algebra! Also, I love workout in my spare time.",
     "location": { "city": "Shanghai", "country": "China" },
     "profiles": [
       {
@@ -19,21 +19,21 @@
 
   "interests": [
     {
+      "icon": "&#128172;",
+      "name": "Psychology",
+      "keywords": [
+        "Psychological Linguistics",
+        "Computational Psychology",
+        "Sentiment Analysis"
+      ]
+    },
+    {
       "icon": "&#129302;",
       "name": "Machine Learning",
       "keywords": [
         "Statistical Learning",
         "Deep Learning",
         "Natural Language Understanding"
-      ]
-    },
-    {
-      "icon": "&#128172;",
-      "name": "Linguistics",
-      "keywords": [
-        "Psychological Linguistics",
-        "Computational Psychology",
-        "Sentiment Analysis"
       ]
     },
     {
@@ -44,7 +44,7 @@
     {
       "icon": "&#128187;",
       "name": "Programming",
-      "keywords": ["Anything with Python or R!"]
+      "keywords": ["Anything to do with Python or R!"]
     }
   ],
 
@@ -54,27 +54,26 @@
       "url": "https://www.sjtu.edu.cn/",
       "major": "Working on Master of Translation and Interpreting (MTI) in <a href=\"https://sfl.sjtu.edu.cn\" target=\"_blank\">School of Foreign Languages</a>.",
       "course_template": "<ul> <li>MATH<ul>  <li>Calculus: 97/100</li> </ul></li> <li>CS<ul> <li>Electric Circuits: 100/100</li> </ul></li>  </ul>",
-      "course": "<ul> <li>MATH<ul>  <li>Matrix Theory: to be graded</li> </ul></li> <li>AI<ul> <li>Statistical Learning and Inference: 95/100</li> </ul></li>  </ul>",
-      "summary": "3 courses and 7 credits as of January 2023",
+      "summary": "A member of both the university's Student Union Academic Department and the school's Promotion and Publicity Department.",
       "startDate": "2022-09",
       "endDate": "2025-03",
       "location": "Shanghai, China",
       "logo": "../images/SJTU_logo.png"
     },
     {
-      "institution": "<b>Shanghai Jiao Tong University</b>",
+      "institution": "<b>Xiamen University</b>",
       "url": "https://www.sjtu.edu.cn/",
-      "major": "Majored in <a href=\"https://naoce.sjtu.edu.cn\" target=\"_blank\">Naval Architecture and Ocean Engineering</a> as a freshman, ranked 1/210, transferred to Computer Science and Technology as a sophomore, also minored in Translation and Interpretation.",
+      "major": "Majored in <a href=\"https://cflc.xmu.edu.cn/\" target=\"_blank\">English</a> and minored in <a href=\"https://se.xmu.edu.cn//\" target=\"_blank\">Financial Management</a>.",
       "course_template": "<ul> <li>MA<ul>  <li>Calculus: 97/100</li> </ul></li> <li>CS<ul> <li>Electric Circuits: 100/100</li> </ul></li>  </ul>",
-      "course": "<ul> <li>MATH<ul>  <li>Calculus: A</li> <li>Probability Theory and Statistics: 92/100</li> <li>Linear Algebra: 94/100</li> <li>Discrete Mathematics: 99/100</li> <li>Algorithm and Complexity: 94/100</li> </ul></li>       <li>CS<ul> <li>C++ programming: 98/100</li> <li>Data Structure: 94/100</li> <li>Operating System: 95/100</li> <li>Computer System Architecture: 95/100</li> <li>Principles of Compiler: 97/100</li> <li>Computer Graphics: 94/100</li> <li>Computer Networking: 98/100</li> </ul></li>      <li>AI<ul> <li>Principles of Data Science: 100/100</li> <li>Artificial Intelligence: 98/100</li> <li>Machine Learning: 97/100</li> <li>Reinforcement Learning: 92/100</li> <li>Natural Language Processing: 98.5/100</li> <li>Data Mining: 97/100</li> </ul></li>       <li>LANG<ul> <li>English Reading and Writing: 96/100</li> <li>Basic Latin: 98/100</li> <li>Interpretation: 98/100</li>  </ul></li>      </ul>",
+      "course": "<ul>  <li>English-Chinese Translation: 98/100</li> <li>Chinese-English Translation: 97/100</li> <li>Advanced English Writing: 90/100</li> <li>Appreciation and Criticism of Translations: 94/100</li> <li>English Literature: 95/100</li>  </ul>",
       "certificate": [
         {
-          "certificate": "<ul> <li>CET-4: 650</li> <li>CET-6: 631</li> <li>TEM-4: 90</li> </ul>"
+          "certificate": "<ul> <li>TEM-4: 88</li> <li>TEM-6: 79</li> <li>TOEIC: 900</li> <li>IELTS: 8.0</li> <li>Securities Qualification</li> <li>Futures Qualification</li> </ul>"
         }
       ],
-      "summary": "A total of 82 courses and 204 credits",
-      "startDate": "2019-09",
-      "endDate": "2023-06",
+      "summary": "A senior member of the university's Reception Team and the college's Promotion and Publicity Department",
+      "startDate": "2018-09",
+      "endDate": "2022-06",
       "location": "Shanghai, China",
       "logo": "../images/SJTU_logo.png"
     }
