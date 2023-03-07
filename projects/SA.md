@@ -11,7 +11,7 @@ labels:
   - Deep Learning
   - Natural Language Processing
   - Sentiment Analysis
-summary: 'Twitter Sentiment Analysis with @<a href="https://github.com/KevinSRR" target="_blank">Reginald</a>. We verified that RoBERTa''s embedding is better for SVM than Word2vec, and that RoBERTa itself is better than LSTM &#129322;. We also investigated the strengths and weaknesses of fine-tuning and prompot-tuning with limited training data.'
+summary: 'In this Twitter Sentiment Analysis project, I helped @<a href="https://github.com/Geralt-Targaryen" target="_blank">Geralt</a> to uncover the patterns hidden beneath the chaos of one of the world's largest social media. We verified that RoBERTa''s embedding is better for SVM classifiers than Word2vec, and that RoBERTa itself is better than LSTM. We also investigated the strengths and weaknesses of fine-tuning and prompot-tuning with limited training data.'
 ---
 
 lalala.

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: experience
-image: images/logo_sjtu.png
+image: images/logo_ruihua.png
 id: 1
 summary: Intern at Ruihua Certified Public Accountants
 location: Xiamen, Fujian, China
