@@ -9,7 +9,7 @@ labels:
   - Sentiment Analysis
   - Deep Learning
   - Natural Language Processing
-summary: "As a member of Dr. @<a href='https://sfl.sjtu.edu.cn/Data/View/4727' target='_blank'>Lv Qianxi</a>'s research group, I reviewed and compiled the literature in the field of sentiment analysis and data annotation, and trained our models."
+summary: "As a member of Dr. <a href='https://sfl.sjtu.edu.cn/Data/View/4727' target='_blank'>Lv Qianxi</a>'s research group, I reviewed and compiled the literature in the field of sentiment analysis and data annotation, and trained our models."
 ---
 
 lalala.
