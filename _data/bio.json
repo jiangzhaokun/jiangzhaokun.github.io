@@ -71,39 +71,34 @@
           "certificate": "<ul> <li>TEM-4: 88</li> <li>TEM-6: 79</li> <li>TOEIC: 900</li> <li>IELTS: 8.0</li> <li>Securities Qualification</li> <li>Futures Qualification</li> </ul>"
         }
       ],
-      "summary": "A senior member of the university's Reception Team and the college's Promotion and Publicity Department",
+      "summary": "A senior member of the university's Reception Team and the college's Promotion and Publicity Department.",
       "startDate": "2018-09",
       "endDate": "2022-06",
       "location": "Shanghai, China",
-      "logo": "../images/SJTU_logo.png"
+      "logo": "../images/logo_xu.jpeg"
     }
   ],
 
   "honor": [
     {
-      "award": "Dongshi Scholarship ",
+      "award": "Zheng Shengtao Scholarship",
       "note": "(&#65509;10000)",
-      "time": "Nov. 2022"
+      "time": "Oct. 2021"
     },
     {
-      "award": "SJTU Undergraduate Class B Scholarship ",
-      "note": "(&#65509;1000)",
-      "time": "Nov. 2022"
-    },
-    {
-      "award": "Huawei Scholarship ",
+      "award": "Exemplar of Academic Innovation in the College of Foreign Languages and Cultures, Xiamen University",
       "note": "(&#65509;5000)",
-      "time": "Nov. 2021"
+      "time": "Sept. 2020"
     },
     {
-      "award": "SJTU Undergraduate Class C Scholarship ",
-      "note": "(&#65509;500)",
-      "time": "Nov. 2021"
-    },
-    {
-      "award": "SJTU Undergraduate Class B Scholarship ",
+      "award": "Zhang Yichun Scholarship",
       "note": "(&#65509;1000)",
-      "time": "Nov. 2020"
+      "time": "Mar. 2020"
+    },
+    {
+      "award": "Xiamen University CFLC Class A Scholarship",
+      "note": "(&#65509;500)",
+      "time": "Nov. 2019"
     }
   ]
 }
